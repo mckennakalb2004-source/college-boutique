@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mckennakalb2004-source.github.io/college-boutique/sitemap.xml
